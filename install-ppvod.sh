@@ -7,4 +7,5 @@ wget --no-check-certificate https://raw.githubusercontent.com/yorfir/auto-instal
 tar zxvf yunzhuanma-2.11.6-linux.tar.gz
 cd bin
 ./start.sh
-echo -e "\033[37;31;5m云转码安装了成功...\033[39;49;0m"
+echo "/yunzhuanma/bin/start.sh" >> /etc/rc.local
+echo -e "\033[37;31;5m云转码安装了成功，并已设置开机自动启动...\033[39;49;0m"
