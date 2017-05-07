@@ -3,4 +3,4 @@ This is make for someone who can choose which version of ppvod((which can cut mp
 
 auto-install-command
 
-·wget --no-check-certificate https://raw.githubusercontent.com/yorfir/auto-install-ppvod/master/install-ppvod.sh && sh install-ppvod.sh·
+`wget --no-check-certificate https://raw.githubusercontent.com/yorfir/auto-install-ppvod/master/install-ppvod.sh && sh install-ppvod.sh`
